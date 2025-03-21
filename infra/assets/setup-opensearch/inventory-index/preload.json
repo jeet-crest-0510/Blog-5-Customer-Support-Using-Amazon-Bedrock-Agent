@@ -7,7 +7,7 @@
         "description": "Genuine Ford OEM headlight bulb, fits driver side",
         "price": 29.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -19,7 +19,7 @@
         "description": "Taillight assembly for Ford F-150, passenger side",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "lights.png"
     },
@@ -31,7 +31,7 @@
         "description": "Premium wiper blade for Ford F-150, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -43,7 +43,7 @@
         "description": "Genuine Ford OEM wiper arm, passenger side",
         "price": 39.99,
         "currency": "USD",
-        "in_stock": false,
+        "in_stock": 0,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -55,7 +55,7 @@
         "description": "Goodyear Wrangler All-Terrain Adventure tire for Ford F-150",
         "price": 189.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "tires.png"
     },
@@ -67,7 +67,7 @@
         "description": "Genuine Ford TPMS sensor and service kit",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "tires.png"
     },
@@ -79,7 +79,7 @@
         "description": "Front brake pad set for Ford F-150",
         "price": 69.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -91,7 +91,7 @@
         "description": "Rear brake rotor for Ford F-150",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -103,7 +103,7 @@
         "description": "Front shock absorber for Ford F-150",
         "price": 129.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -115,7 +115,7 @@
         "description": "Rear coil spring for Ford F-150",
         "price": 99.99,
         "currency": "USD",
-        "in_stock": false,
+        "in_stock": 0,
         "rating": 4.8,
         "images": "suspension.png"
     },
@@ -127,7 +127,7 @@
         "description": "Genuine Ford OEM headlight bulb, fits driver side",
         "price": 29.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -139,7 +139,7 @@
         "description": "Taillight assembly for Ford F-150, passenger side",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "lights.png"
     },
@@ -151,7 +151,7 @@
         "description": "Premium wiper blade for Ford F-150, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -163,7 +163,7 @@
         "description": "Genuine Ford OEM wiper arm, passenger side",
         "price": 39.99,
         "currency": "USD",
-        "in_stock": false,
+        "in_stock": 0,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -175,7 +175,7 @@
         "description": "Goodyear Wrangler All-Terrain Adventure tire for Ford F-150",
         "price": 189.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "tires.png"
     },
@@ -187,7 +187,7 @@
         "description": "Genuine Ford TPMS sensor and service kit",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "tires.png"
     },
@@ -199,7 +199,7 @@
         "description": "Front brake pad set for Ford F-150",
         "price": 69.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -211,7 +211,7 @@
         "description": "Rear brake rotor for Ford F-150",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -223,7 +223,7 @@
         "description": "Front shock absorber for Ford F-150",
         "price": 129.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -235,7 +235,7 @@
         "description": "Rear coil spring for Ford F-150",
         "price": 99.99,
         "currency": "USD",
-        "in_stock": false,
+        "in_stock": 0,
         "rating": 4.8,
         "images": "suspension.png"
     },
@@ -247,7 +247,7 @@
         "description": "Headlight assembly for Ford Mustang, driver side",
         "price": 299.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "lights.png"
     },
@@ -259,7 +259,7 @@
         "description": "LED fog light for Ford Mustang",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -271,7 +271,7 @@
         "description": "Performance muffler for Ford Mustang",
         "price": 199.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "exahust.png"
     },
@@ -283,7 +283,7 @@
         "description": "Catalytic converter for Ford Mustang",
         "price": 349.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "exahust.png"
     },
@@ -295,7 +295,7 @@
         "description": "Headlight bulb for Chevrolet Silverado 1500",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "lights.png"
     },
@@ -307,7 +307,7 @@
         "description": "Fog light assembly for Chevrolet Silverado 1500",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -319,7 +319,7 @@
         "description": "Wiper blade for Chevrolet Silverado 1500, driver side",
         "price": 22.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -331,7 +331,7 @@
         "description": "Wiper arm for Chevrolet Silverado 1500, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -343,7 +343,7 @@
         "description": "Headlight bulb for Ford Edge, driver side",
         "price": 27.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -355,7 +355,7 @@
         "description": "Taillight assembly for Ford Edge, passenger side",
         "price": 179.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "lights.png"
     },
@@ -367,7 +367,7 @@
         "description": "Premium wiper blade for Ford Edge, driver side",
         "price": 23.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -379,7 +379,7 @@
         "description": "Wiper arm for Ford Edge, passenger side",
         "price": 37.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -391,7 +391,7 @@
         "description": "Front brake pad set for Ford Edge",
         "price": 64.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -403,7 +403,7 @@
         "description": "Rear brake rotor for Ford Edge",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -415,7 +415,7 @@
         "description": "Front shock absorber for Ford Edge",
         "price": 119.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -427,7 +427,7 @@
         "description": "Rear coil spring for Ford Edge",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -439,7 +439,7 @@
         "description": "Engine air filter for Ford Edge",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -451,7 +451,7 @@
         "description": "Iridium spark plug for Ford Edge",
         "price": 9.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -463,7 +463,7 @@
         "description": "18-inch alloy wheel for Ford Edge",
         "price": 249.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -475,7 +475,7 @@
         "description": "Front wheel hub assembly for Ford Edge",
         "price": 129.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -487,7 +487,7 @@
         "description": "Premium floor mat set for Ford Edge",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -499,7 +499,7 @@
         "description": "Leather steering wheel cover for Ford Edge",
         "price": 39.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -511,7 +511,7 @@
         "description": "Power side mirror for Ford Edge, driver side",
         "price": 159.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -523,7 +523,7 @@
         "description": "Aluminum roof rack for Ford Edge",
         "price": 229.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -535,7 +535,7 @@
         "description": "Rearview backup camera for Ford Edge",
         "price": 99.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -547,7 +547,7 @@
         "description": "1080P dash cam for Ford Edge",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -559,7 +559,7 @@
         "description": "Full synthetic 5W-30 engine oil for Ford Edge",
         "price": 39.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids.png"
     },
@@ -571,7 +571,7 @@
         "description": "Mercon LV transmission fluid for Ford Edge",
         "price": 29.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids.png"
     },
@@ -583,7 +583,7 @@
         "description": "Headlight bulb for Honda Accord, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -595,7 +595,7 @@
         "description": "Fog light assembly for Honda Accord",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -607,7 +607,7 @@
         "description": "Wiper blade for Honda Accord, driver side",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -619,7 +619,7 @@
         "description": "Wiper arm for Honda Accord, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -631,7 +631,7 @@
         "description": "Front brake pad set for Honda Accord",
         "price": 59.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -643,7 +643,7 @@
         "description": "Rear brake rotor for Honda Accord",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -655,7 +655,7 @@
         "description": "Front shock absorber for Honda Accord",
         "price": 109.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -667,7 +667,7 @@
         "description": "Rear coil spring for Honda Accord",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -679,7 +679,7 @@
         "description": "Engine air filter for Honda Accord",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -691,7 +691,7 @@
         "description": "Iridium spark plug for Honda Accord",
         "price": 9.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -703,7 +703,7 @@
         "description": "18-inch alloy wheel for Honda Accord",
         "price": 239.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -715,7 +715,7 @@
         "description": "Front wheel hub assembly for Honda Accord",
         "price": 119.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -727,7 +727,7 @@
         "description": "Premium floor mat set for Honda Accord",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -739,7 +739,7 @@
         "description": "Leather steering wheel cover for Honda Accord",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -751,7 +751,7 @@
         "description": "Power side mirror for Honda Accord, driver side",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -763,7 +763,7 @@
         "description": "Aluminum roof rack for Honda Accord",
         "price": 219.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -775,7 +775,7 @@
         "description": "Rearview backup camera for Honda Accord",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -787,7 +787,7 @@
         "description": "1080P dash cam for Honda Accord",
         "price": 139.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -799,7 +799,7 @@
         "description": "Full synthetic 0W-20 engine oil for Honda Accord",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids.png"
     },
@@ -811,7 +811,7 @@
         "description": "Honda ATF-Type 3.1 transmission fluid for Honda Accord",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids.png"
     },
@@ -823,7 +823,7 @@
         "description": "Headlight bulb for Honda Civic, driver side",
         "price": 22.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -835,7 +835,7 @@
         "description": "Fog light assembly for Honda Civic",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -847,7 +847,7 @@
         "description": "Wiper blade for Honda Civic, driver side",
         "price": 17.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -859,7 +859,7 @@
         "description": "Wiper arm for Honda Civic, passenger side",
         "price": 29.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -871,7 +871,7 @@
         "description": "Front brake pad set for Honda Civic",
         "price": 54.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -883,7 +883,7 @@
         "description": "Rear brake rotor for Honda Civic",
         "price": 69.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -895,7 +895,7 @@
         "description": "Front shock absorber for Honda Civic",
         "price": 99.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -907,7 +907,7 @@
         "description": "Rear coil spring for Honda Civic",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -919,7 +919,7 @@
         "description": "Engine air filter for Honda Civic",
         "price": 17.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -931,7 +931,7 @@
         "description": "Iridium spark plug for Honda Civic",
         "price": 8.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -943,7 +943,7 @@
         "description": "18-inch alloy wheel for Honda Civic",
         "price": 219.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -955,7 +955,7 @@
         "description": "Front wheel hub assembly for Honda Civic",
         "price": 109.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -967,7 +967,7 @@
         "description": "Premium floor mat set for Honda Civic",
         "price": 69.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -979,7 +979,7 @@
         "description": "Leather steering wheel cover for Honda Civic",
         "price": 29.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -991,7 +991,7 @@
         "description": "Power side mirror for Honda Civic, driver side",
         "price": 129.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -1003,7 +1003,7 @@
         "description": "Aluminum roof rack for Honda Civic",
         "price": 199.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -1015,7 +1015,7 @@
         "description": "Rearview backup camera for Honda Civic",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -1027,7 +1027,7 @@
         "description": "1080P dash cam for Honda Civic",
         "price": 129.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -1039,7 +1039,7 @@
         "description": "Full synthetic 0W-20 engine oil for Honda Civic",
         "price": 32.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids.png"
     },
@@ -1051,7 +1051,7 @@
         "description": "Honda ATF-Type 3.1 transmission fluid for Honda Civic",
         "price": 22.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids.png"
     },
@@ -1063,7 +1063,7 @@
         "description": "Headlight bulb for Honda CR-V, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -1075,7 +1075,7 @@
         "description": "Fog light assembly for Honda CR-V",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -1087,7 +1087,7 @@
         "description": "Wiper blade for Honda CR-V, driver side",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -1099,7 +1099,7 @@
         "description": "Wiper arm for Honda CR-V, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -1111,7 +1111,7 @@
         "description": "Front brake pad set for Honda CR-V",
         "price": 59.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -1123,7 +1123,7 @@
         "description": "Rear brake rotor for Honda CR-V",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -1135,7 +1135,7 @@
         "description": "Front shock absorber for Honda CR-V",
         "price": 109.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -1147,7 +1147,7 @@
         "description": "Rear coil spring for Honda CR-V",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -1159,7 +1159,7 @@
         "description": "Engine air filter for Honda CR-V",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -1171,7 +1171,7 @@
         "description": "Iridium spark plug for Honda CR-V",
         "price": 9.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -1183,7 +1183,7 @@
         "description": "18-inch alloy wheel for Honda CR-V",
         "price": 239.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -1195,7 +1195,7 @@
         "description": "Front wheel hub assembly for Honda CR-V",
         "price": 119.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -1207,7 +1207,7 @@
         "description": "Premium floor mat set for Honda CR-V",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -1219,7 +1219,7 @@
         "description": "Leather steering wheel cover for Honda CR-V",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -1231,7 +1231,7 @@
         "description": "Power side mirror for Honda CR-V, driver side",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -1243,7 +1243,7 @@
         "description": "Aluminum roof rack for Honda CR-V",
         "price": 219.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -1255,7 +1255,7 @@
         "description": "Rearview backup camera for Honda CR-V",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -1267,7 +1267,7 @@
         "description": "1080P dash cam for Honda CR-V",
         "price": 139.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -1279,7 +1279,7 @@
         "description": "Full synthetic 0W-20 engine oil for Honda CR-V",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids.png"
     },
@@ -1291,7 +1291,7 @@
         "description": "Honda ATF-Type 3.1 transmission fluid for Honda CR-V",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids.png"
     },
@@ -1303,7 +1303,7 @@
         "description": "Headlight bulb for Subaru Forester, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -1315,7 +1315,7 @@
         "description": "Fog light assembly for Subaru Forester",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -1327,7 +1327,7 @@
         "description": "Wiper blade for Subaru Forester, driver side",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -1339,7 +1339,7 @@
         "description": "Wiper arm for Subaru Forester, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -1351,7 +1351,7 @@
         "description": "Front brake pad set for Subaru Forester",
         "price": 59.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -1363,7 +1363,7 @@
         "description": "Rear brake rotor for Subaru Forester",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -1375,7 +1375,7 @@
         "description": "Front shock absorber for Subaru Forester",
         "price": 109.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -1387,7 +1387,7 @@
         "description": "Rear coil spring for Subaru Forester",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -1399,7 +1399,7 @@
         "description": "Engine air filter for Subaru Forester",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -1411,7 +1411,7 @@
         "description": "Iridium spark plug for Subaru Forester",
         "price": 9.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -1423,7 +1423,7 @@
         "description": "18-inch alloy wheel for Subaru Forester",
         "price": 239.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -1435,7 +1435,7 @@
         "description": "Front wheel hub assembly for Subaru Forester",
         "price": 119.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -1447,7 +1447,7 @@
         "description": "Premium floor mat set for Subaru Forester",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -1459,7 +1459,7 @@
         "description": "Leather steering wheel cover for Subaru Forester",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -1471,7 +1471,7 @@
         "description": "Power side mirror for Subaru Forester, driver side",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -1483,7 +1483,7 @@
         "description": "Aluminum roof rack for Subaru Forester",
         "price": 219.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -1495,7 +1495,7 @@
         "description": "Rearview backup camera for Subaru Forester",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -1507,7 +1507,7 @@
         "description": "1080P dash cam for Subaru Forester",
         "price": 139.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -1519,7 +1519,7 @@
         "description": "Full synthetic 0W-20 engine oil for Subaru Forester",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids..ng"
     },
@@ -1531,7 +1531,7 @@
         "description": "Subaru ATF for Subaru Forester",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids..ng"
     },
@@ -1543,7 +1543,7 @@
         "description": "Headlight bulb for Subaru Outback, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -1555,7 +1555,7 @@
         "description": "Fog light assembly for Subaru Outback",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -1567,7 +1567,7 @@
         "description": "Wiper blade for Subaru Outback, driver side",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -1579,7 +1579,7 @@
         "description": "Wiper arm for Subaru Outback, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -1591,7 +1591,7 @@
         "description": "Front brake pad set for Subaru Outback",
         "price": 59.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -1603,7 +1603,7 @@
         "description": "Rear brake rotor for Subaru Outback",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -1615,7 +1615,7 @@
         "description": "Front shock absorber for Subaru Outback",
         "price": 109.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -1627,7 +1627,7 @@
         "description": "Rear coil spring for Subaru Outback",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -1639,7 +1639,7 @@
         "description": "Engine air filter for Subaru Outback",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -1651,7 +1651,7 @@
         "description": "Iridium spark plug for Subaru Outback",
         "price": 9.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -1663,7 +1663,7 @@
         "description": "18-inch alloy wheel for Subaru Outback",
         "price": 239.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -1675,7 +1675,7 @@
         "description": "Front wheel hub assembly for Subaru Outback",
         "price": 119.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -1687,7 +1687,7 @@
         "description": "Premium floor mat set for Subaru Outback",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -1699,7 +1699,7 @@
         "description": "Leather steering wheel cover for Subaru Outback",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -1711,7 +1711,7 @@
         "description": "Power side mirror for Subaru Outback, driver side",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -1723,7 +1723,7 @@
         "description": "Aluminum roof rack for Subaru Outback",
         "price": 219.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -1735,7 +1735,7 @@
         "description": "Rearview backup camera for Subaru Outback",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -1747,7 +1747,7 @@
         "description": "1080P dash cam for Subaru Outback",
         "price": 139.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -1759,7 +1759,7 @@
         "description": "Full synthetic 0W-20 engine oil for Subaru Outback",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids..ng"
     },
@@ -1771,7 +1771,7 @@
         "description": "Subaru ATF for Subaru Outback",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids..ng"
     },
@@ -1783,7 +1783,7 @@
         "description": "Headlight bulb for Subaru WRX, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -1795,7 +1795,7 @@
         "description": "Fog light assembly for Subaru WRX",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -1807,7 +1807,7 @@
         "description": "Wiper blade for Subaru WRX, driver side",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -1819,7 +1819,7 @@
         "description": "Wiper arm for Subaru WRX, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -1831,7 +1831,7 @@
         "description": "Front brake pad set for Subaru WRX",
         "price": 69.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -1843,7 +1843,7 @@
         "description": "Rear brake rotor for Subaru WRX",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     },
@@ -1855,7 +1855,7 @@
         "description": "Front shock absorber for Subaru WRX",
         "price": 119.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "suspension.png"
     },
@@ -1867,7 +1867,7 @@
         "description": "Rear coil spring for Subaru WRX",
         "price": 99.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "suspension.png"
     },
@@ -1879,7 +1879,7 @@
         "description": "Engine air filter for Subaru WRX",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "engine.png"
     },
@@ -1891,7 +1891,7 @@
         "description": "Iridium spark plug for Subaru WRX",
         "price": 12.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "engine.png"
     },
@@ -1903,7 +1903,7 @@
         "description": "18-inch alloy wheel for Subaru WRX",
         "price": 259.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "wheels.png"
     },
@@ -1915,7 +1915,7 @@
         "description": "Front wheel hub assembly for Subaru WRX",
         "price": 129.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "wheels.png"
     },
@@ -1927,7 +1927,7 @@
         "description": "Premium floor mat set for Subaru WRX",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "interior..ng"
     },
@@ -1939,7 +1939,7 @@
         "description": "Leather steering wheel cover for Subaru WRX",
         "price": 39.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "interior..ng"
     },
@@ -1951,7 +1951,7 @@
         "description": "Power side mirror for Subaru WRX, driver side",
         "price": 159.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "body.png"
     },
@@ -1963,7 +1963,7 @@
         "description": "Aluminum roof rack for Subaru WRX",
         "price": 229.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "body.png"
     },
@@ -1975,7 +1975,7 @@
         "description": "Rearview backup camera for Subaru WRX",
         "price": 99.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "electronics.png"
     },
@@ -1987,7 +1987,7 @@
         "description": "1080P dash cam for Subaru WRX",
         "price": 149.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "electronics.png"
     },
@@ -1999,7 +1999,7 @@
         "description": "Full synthetic 0W-20 engine oil for Subaru WRX",
         "price": 39.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.9,
         "images": "fluids..ng"
     },
@@ -2011,7 +2011,7 @@
         "description": "Subaru ATF for Subaru WRX",
         "price": 29.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "fluids..ng"
     },
@@ -2023,7 +2023,7 @@
         "description": "Headlight bulb for Toyota Camry, driver side",
         "price": 24.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "lights.png"
     },
@@ -2035,7 +2035,7 @@
         "description": "Fog light assembly for Toyota Camry",
         "price": 89.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "lights.png"
     },
@@ -2047,7 +2047,7 @@
         "description": "Wiper blade for Toyota Camry, driver side",
         "price": 19.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.5,
         "images": "wipers.png"
     },
@@ -2059,7 +2059,7 @@
         "description": "Wiper arm for Toyota Camry, passenger side",
         "price": 34.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.6,
         "images": "wipers.png"
     },
@@ -2071,7 +2071,7 @@
         "description": "Front brake pad set for Toyota Camry",
         "price": 59.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.8,
         "images": "brakes.png"
     },
@@ -2083,7 +2083,7 @@
         "description": "Rear brake rotor for Toyota Camry",
         "price": 79.99,
         "currency": "USD",
-        "in_stock": true,
+        "in_stock": 5,
         "rating": 4.7,
         "images": "brakes.png"
     }

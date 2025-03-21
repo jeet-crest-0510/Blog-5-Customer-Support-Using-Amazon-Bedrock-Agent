@@ -43,7 +43,7 @@
           "type": "keyword"
         },
         "in_stock": {
-          "type": "boolean"
+          "type": "integer"
         },
         "rating": {
           "type": "float"

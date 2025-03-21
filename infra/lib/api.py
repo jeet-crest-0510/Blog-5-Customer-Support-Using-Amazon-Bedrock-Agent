@@ -43,6 +43,7 @@ class LambdaConstruct(Construct):
                             "-c",
                             "pip install --no-cache-dir -r requirements.txt -t /asset-output && cp -au . /asset-output",
                         ],
+                        user= "root"
                     ),
                 ),
                 timeout=Duration.seconds(900),

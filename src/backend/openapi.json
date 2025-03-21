@@ -104,6 +104,53 @@
             }
           }
         }
+      },
+      "/decrease_stock": {
+        "post": {
+          "summary": "POST /decrease_stock",
+          "description": "Decrease the in-stock count of a part by 1 in the inventory.",
+          "operationId": "decrease_stock_post",
+          "requestBody": {
+            "description": "Part ID(s) to decrease stock for.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "allOf": [
+                    {
+                      "$ref": "#/components/schemas/PartFromInventoryRequest"
+                    }
+                  ],
+                  "title": "Request",
+                  "description": "Part ID(s) to decrease stock for."
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            },
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "title": "Return"
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     },
     "components": {

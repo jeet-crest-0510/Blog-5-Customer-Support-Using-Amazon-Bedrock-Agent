@@ -80,6 +80,7 @@ class OpenSearchConstruct(Construct):
                             "-c",
                             "pip install --no-cache-dir -r requirements.txt -t /asset-output && cp -au . /asset-output",
                         ],
+                        user= "root"
                     ),
                 ),
                 environment={

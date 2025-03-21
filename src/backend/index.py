@@ -80,6 +80,51 @@ def get_part_from_inventory(
         logger.info(f"Error searching inventory: {str(e)}")
         raise
 
+@app.post("/decrease_stock", description="Decrease the in-stock count of a part by 1 in the inventory.")
+@tracer.capture_method
+def decrease_stock(
+    request: Annotated[PartFromInventoryRequest, Body(description="Part ID(s) to decrease stock for.")]
+) -> Dict:
+    logger.info("Received request to decrease stock", extra={"request": request.model_dump_json()})
+    client = get_search_client()
+    index_name = os.environ.get('INVENTORY_INDEX', "inventory")
+    
+    part_ids = request.part_ids if isinstance(request.part_ids, list) else [request.part_ids]
+    
+    results = []
+    
+    for part_id in part_ids:
+        try:
+            # Get current stock
+            search_query = {"query": {"term": {"part_number": part_id}}}
+            response = client.search(index=index_name, body=search_query)
+            
+            if not response['hits']['hits']:
+                logger.info(f"Part {part_id} not found in inventory.")
+                continue
+            
+            doc_id = response['hits']['hits'][0]['_id']
+            current_stock = response['hits']['hits'][0]['_source'].get("in_stock", 0)
+            
+            if current_stock > 0:
+                update_query = {
+                    "script": {
+                        "source": "ctx._source.in_stock -= params.count",
+                        "params": {"count": 1}
+                    }
+                }
+                client.update(index=index_name, id=doc_id, body=update_query)
+                logger.info(f"Decreased stock for part {part_id}. New stock: {current_stock - 1}")
+                results.append({"part_id": part_id, "new_stock": current_stock - 1})
+            else:
+                logger.info(f"Stock for part {part_id} is already zero.")
+                results.append({"part_id": part_id, "new_stock": 0, "message": "Out of stock"})
+        except Exception as e:
+            logger.info(f"Error updating stock for part {part_id}: {str(e)}")
+            results.append({"part_id": part_id, "error": str(e)})
+    
+    return {"results": results}
+
 @app.post("/get_compatible_parts", description="Get parts that are compatible with a specific vehicle make, model, and year. Using the category field is highly recommended for more accurate and relevant results.")
 @tracer.capture_method
 def get_compatible_parts(
